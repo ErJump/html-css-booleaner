@@ -13,10 +13,6 @@
     color: #20a9e5;
     text-decoration: none;
 }
-#tim{
-    height: 820px;
-}
-
 
 .header{
     background-image: url("../img/pattern.png");
@@ -44,9 +40,6 @@ h1{
 }
 .titolo{
     margin-bottom: 50px;
-}
-section img{
-    width: 49%;
 }
 .testo-foto{
     font-size: 18px;
@@ -91,14 +84,12 @@ footer div{
     font-weight: bold;
     padding: 10px;
     font-size: 28px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .suggerito1{
     background-image: url("../img/monitor.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .suggerito2{
     background-image: url("../img/graph.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
